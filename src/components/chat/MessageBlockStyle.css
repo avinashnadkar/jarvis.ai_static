@@ -1,0 +1,28 @@
+
+.messageBoxRight {
+    max-width: 50%;
+    width: fit-content;
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top:20px;
+    margin-left: auto;
+}
+
+.messageBoxLeft {
+    max-width: 50%;
+    width: fit-content;
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top:20px;
+}
+
+ p {
+    margin: 0;
+    padding: 0;
+}
